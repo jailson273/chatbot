@@ -1,0 +1,12 @@
+Chatbot principal 
+	Serviço: BotAgent
+	Chatbot: BotAgent
+
+Serviço: BotNLP
+	Expiração do redirecionamento:
+	Chatbot: BotNLP
+
+IA
+	IBM Watson
+		Chave de API: cXXgZdIW1kaKSdXdjAkbE_zyW0H4Z5dMJJ0RjS3nPg-h
+		Url: https://api.us-south.assistant.watson.cloud.ibm.com/instances/63e356c9-2dff-4561-ab1d-efaad07d837b

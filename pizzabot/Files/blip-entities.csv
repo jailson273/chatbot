@@ -1,0 +1,21 @@
+﻿sep=,
+Tamanhos,Família,F/família/grandona/bem grande/muito grande/a maior/12 pedaços/doze pedaços/
+Tamanhos,Grande,G/grande/8 pedaços/oito pedaços/pizza pra 4 pessoas/pizza pra quatro pessoas/
+Tamanhos,Média,M/média/mediana/normal/6 pedaços/seis pedaços/pizza pra 3 pessoas/pizza pra tres pessoas/
+Tamanhos,Broto,B/broto/brotinho/pequenininha/mini pizza/a menor/4 pedaços/quatro pedaços/pizza pra 2 pessoas/pizza pra duas pessoas/
+Quantidade,numeros,1/2/3/4/5/6/7/8/9/uma/duas/tres/trez/quatro/cinco/sinco/seis/sete/oito/nove/dez/deis/des/onze/doze/douze/douse/
+Entrega,Entrega,entrega/entregar/receber em casa/delivery/quero receber/pode entregar/
+Entrega,Retirada,Retira/retirada/buscar na loja/retirar/vou buscar/
+Borda,Sem Borda,Sem Boda/Sem recheio/Não quero borda/borda nao/
+Borda,Com borda,Com borda/com recheio/Borda Sim/
+ConfirmarPedido,Confirmardo,sim/ok/confirmo/tudo bem/pode ser/claro/pode sim/
+ConfirmarPedido,Cancelado,Não/não confirmo/cancelar/não quero mais/sair/
+Menu,Beijinho,Beijinho/moça nestle/leite/condençado/
+Menu,Chocolate,chocolate/choco/doce/
+Menu,Calabresa,calabresa/linguiça/
+Menu,Mussarela,mussarela/queijo/
+MeuNome,InformarNome,meu nome é/me chamo/eu sou o/eu sou a/prazer eu sou/pode me chamar de/sou conhecido como/
+FormaDePagamento,Dinheiro,dinheiro/em dinheiro/com dinheiro/troco para/preciso de troco/tenho dinheiro/
+FormaDePagamento,Cartão,Cartão/debito/credito/maquina de cartão/maquininha/não é dinheiro/
+Endereco,Rua,Rua/av/avenida/travessa/viela/
+Endereco,Bairro,bairro/parque/jardim/centro/vila/

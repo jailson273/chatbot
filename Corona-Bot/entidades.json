@@ -1,0 +1,28 @@
+[
+    {
+        "entidade": "saudacao",
+        "valor": [
+                { 
+                  "nome": "saudar",
+                  "sinonimos": ["Bom dia", "Boa tarde", "Boa noite"] 
+                }
+        ]
+    },
+    {
+        "entidade": "saudar",
+        "valor": [
+            {
+                "nome": "manha",
+                "sinonimos": ["bom dia"]
+            },
+            {
+                "nome": "tarde",
+                "sinonimos": ["boa tarde"]
+            },
+            {
+                "nome": "noite",
+                "sinonimos": ["boa noite"]
+            }
+        ]
+    }
+]

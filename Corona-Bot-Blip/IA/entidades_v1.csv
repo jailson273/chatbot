@@ -1,0 +1,15 @@
+﻿sep=,
+numeros,0,0/zero/zeros/
+numeros,9,9/nove/noves/nine/
+numeros,8,8/oito/oitos/eight/
+numeros,7,7/sete/setes/seven/
+numeros,6,6/seis/seiz/seix/six/
+numeros,5,5/cinco/sinco/five/
+numeros,4,4/quatro/quatros/four/
+numeros,3,3/tres/trex/treis/treiz/three/
+numeros,2,2/dois/doiz/duas/two/
+numeros,1,1/um/uma/one/
+corona,sintomas,febre/tosse/tosse seca/cansaço/dor de cabeça/dor/dor nos olhos/dor no corpo/dor de garganta/diarréia/perda de paladar/perca de paladar/falta de paladar/perda de olfato/perca de olfato/falta de olfato/conjutivite/dedos brancos/caroços na pele/erupção na pele/dificuldade de respirar/falta de ar/respiração ruim/problema na respiração/dor no peito/pressao no peito/perda de fala/perca de fala/não consigo falar/fala ruim/falta de movimento/perda de movimento/perca de movimento/dificuldade movimentar/
+corona,sintomas-graves,dificuldade de respirar/falta de ar/respiração ruim/problema na respiração/dor no peito/pressao no peito/perda de fala/perca de fala/não consigo falar/fala ruim/falta de movimento/perda de movimento/perca de movimento/dificuldade movimentar/
+corona,sintomas-menos-comuns,dor de cabeça/dor/dor nos olhos/dor no corpo/dor de garganta/diarréia/perda de paladar/perca de paladar/falta de paladar/perda de olfato/perca de olfato/falta de olfato/conjutivite/dedos brancos/caroços na pele/erupção na pele/
+corona,sintomas-comuns,febre/tosse/tosse seca/cansaço/

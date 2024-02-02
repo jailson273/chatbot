@@ -1,0 +1,16 @@
+sep=,,
+tamanho,familia,f/familia/gigante/grandona/familias/gradonas/gigantes/
+tamanho,grande,g/grande/grandes/
+tamanho,media,m/media/medio/mediana/medias/medios/
+tamanho,broto,b/broto/pequena/mini/brotos/pequenas/
+opcao_finalizar,continuar,continuar/continua/2/dois/duas/segundo/segunda/
+opcao_finalizar,finalizar,sim/quero/pode/ok/finalizar/concluir/fechar/1/um/uma/primeiro/primeira/
+adicionar_cesta,remover,0/2/nao/retirar/remover/cancelar/errado/discordo/
+adicionar_cesta,adicionar,1/sim/ok/pode/adicionar/adicionado/adiciona/adicione/continue/claro/concerteza/pode ser/beleza/blz/
+preco,preco,preco/precos/valor/valores/taxa/taxas/delivery/entrega/
+pizza,sabores,brigadeiro/chocolate/calabresa/mussarela/bacon/frango/camarao/peperone/alho e oleo/broculis/peru/queiho/cinco queijos/
+opcao_tamanho,familia,f/familia/gigante/grandona/familias/gradonas/gigantes/4/quarto/quarta/
+opcao_tamanho,grande,g/grande/grandes/3/treis/terceriro/terceira/
+opcao_tamanho,media,m/media/medio/mediana/medias/medios/dois/duas/segundo/segunda/
+opcao_tamanho,broto,b/broto/pequena/mini/brotos/pequenas/1/primeiro/primeira/um/uma/
+opcao_tamanho,retirar,r/retirar/remover/excluir/cancelar/cancele/retire/retira/0/5/zero/cinco/quinto/quinta/

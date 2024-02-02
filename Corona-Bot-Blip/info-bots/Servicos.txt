@@ -1,0 +1,23 @@
+**********************************
+**	Bots do Corona BOT	**
+**********************************
+
+--- Routes
+Covid-Bot-Router		OK
+
+--- Bots
+Covid-Bot-Main			OK
+Covid-Bot-Saudacao-01-01	OK
+Covid-Bot-Encerramento-01-01	OK
+Covid-Bot-Prev-Basic-01-02	OK
+Covid-Bot-Contagio-01-03	OK	
+Covid-Bot-Casos-Brasil-01-04	Config API
+Covid-Bot-FAQ-01-05		
+Covid-Bot-Sitomas-02-01		
+Covid-Bot-PD-Arvore-cena-03-00	
+Covid-Bot-PD-Gru-Ris-Feb-03-01
+Covid-Bot-PD-Sint-Leves-03-02
+Covid-Bot-PD-Sint-Graves-03-03
+Covid-Bot-PD-ResForGruRi-03-04
+Covid-Bot-PD-ResDenGruRi-03-05
+

@@ -1,0 +1,46 @@
+entidade: saudacao
+    valor: saudar
+        bom dia
+        boa tarde
+        boa noite
+
+entidade: saudar
+    valor: manha
+        bom dia
+
+    valor: tarde
+        boa tarde
+
+    valor: noite
+        boa noite
+
+entidade: confirmar
+    valor: sim
+        sim
+        ok
+        aceito
+        beleza
+        blz
+        tudo bem
+        certo
+        continuar
+        correto
+        confirmo
+        confirmar
+    
+    valor: nao
+        nao
+        nok
+        errado
+        incorreto
+        desisto
+        desistir
+        erradissimo
+        parar
+        nao confirmo
+        nao aceito
+        nao esta ok
+
+
+O endereço está correto, podemos continuar ?
+- então, nao ta certo, mas pode continuar

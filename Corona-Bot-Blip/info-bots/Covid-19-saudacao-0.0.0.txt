@@ -1,0 +1,4 @@
+variaveis local
+	ehPrimeiroAcesso
+
+variaveis global

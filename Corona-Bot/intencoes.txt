@@ -1,0 +1,75 @@
+
+intencao: saudacao
+ola
+oi
+e ai
+E ae
+tudo bom
+tudo bem
+tudo certo
+ola tudo bom
+ola tudo bem
+ola tudo certo
+oi tudo bom
+Oi tudo bem
+oi tudo certo
+e ai tudo bem
+e ai tudo bom
+e ai tudo certo
+e ae tudo bom
+e ae tudo bem
+e ae tudo certo
+como voce esta
+como Vai Voce
+como esta voce
+como você vai
+
+intencao: prevencao
+quero saber como me previnir do corona virus
+como posso me previnir do corona virus
+quais sao as instrucoes de prevencao
+estou previnido do corona virus
+como posso previnir minha familia
+como posso nao me contagiar
+prevencao basica
+prevencao dos profissionais de saude
+prevencao do profissional de saude
+nao quero pegar o corona virus
+prevencao
+posso me livrar do corona virus
+quais cuidados eu devo tomar
+quero cuidar para nao contrair o virus
+se eu lavar minhas maos e usar alcool gel estou previnido
+tenho que usar mascara para nao pegar o virus
+sou do grupo de risco quero saber como me previnir
+tenho problemas respiratorios e nao quero pegar o virus
+tenho problemas cardiacos de coracao e nao quero pegar o virus
+estou em tratamento de cancer e nao quero pegar o virus
+estou gravida e nao quero pegar o virus
+
+intencao: contagio
+quero saber informacoes de contagio
+como posso passar o virus
+quais sao os meios de contaminacao
+por quanto tempo o virus fica vivo
+qual e o periodo de incubacao
+quais sao as formas de contagio
+posso sair de casa para ir no mercado
+posso sair para trabalhar
+porque nao podemos ter aglomeracao
+se eu tiver contato com alguem contaminado eu posso pegar o virus
+como o corona virus e transmitido
+contagio
+porque o corona virus e transmitido
+como e a transmissao do corona virus
+se alguem tossir ou espirrar perto de mim eu me contamina
+se alguem tossir ou espirrar perto de mim eu pego o corona virus
+posso abracar as minha familia
+e verdade que eu nao posso tocar em ninguem
+eu nao posso ter contato fisico com as pessoas
+nao posso me aproximar das pessoas
+quanto temo leva para os sitomas aparecerem
+quanto tempo leva pra surgir os primeiros sintomas
+
+
+

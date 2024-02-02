@@ -1,0 +1,4 @@
+variaveis local
+	greeting
+
+variaveis global

@@ -1,0 +1,107 @@
+
+**********************************
+**	Bots do Corona BOT	**
+**********************************
+
+--- Routes
+Covid-Bot-Router		OK
+
+--- Bots
+Covid-Bot-Main					OK
+Covid-Bot-Saudacao-01-01		OK
+Covid-Bot-Encerramento-01-01	OK
+Covid-Bot-Prev-Basic-01-02		OK
+Covid-Bot-Contagio-01-03		OK
+Covid-Bot-Casos-Brasil-01-04	OK
+Covid-Bot-FAQ-01-05				OK
+Covid-Bot-Sitomas-02-01			OK
+Covid-Bot-PD-Arvore-cena-03-00	OK
+Covid-Bot-PD-Gru-Ris-Feb-03-01	OK
+Covid-Bot-PD-Sint-Leves-03-02	OK
+Covid-Bot-PD-Sint-Graves-03-03	OK
+Covid-Bot-PD-ResForGruRi-03-04	OK
+Covid-Bot-PD-ResDenGruRi-03-05	OK
+
+
+
+******************
+**	intenções	**
+******************
+
+casos-no-brasil
+contagio
+diagnostico
+faq
+prevencao
+saudacao
+sintomas
+
+
+confirmar
+negar-encerrar
+incerteza
+
+
+******************
+**	entidade	**
+******************
+
+corona
+	sintomas
+	sintomas-graves
+	sintomas-menos-comuns
+	sintomas-comuns
+
+
+informacao
+	diagnostico
+	casos-brasil
+	contagio
+	prevencao
+
+
+opcoes
+	prevencao-basica	
+	prevencao-profissional-saude
+	outro
+	
+
+
+
+
+
+----------------------------------------------
+--	direcionamento para o Covid-Bot-Main	--
+----------------------------------------------
+
+prevencao
+sintomas
+faq
+diagnostico
+contagio
+casos-no-brasil
+
+
+---
+
+confirmar
+negar-encerrar
+incerteza
+
+
+
+
+informacao
+	diagnostico
+	casos-brasil
+	contagio
+	prevencao
+
+
+
+
+https://forum.blip.ai/t/bots-offline-nao-inicia-a-conversa/5685
+
+
+
+
